@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8693004a.css",
+    "main.js": "/static/js/main.a24fda9c.js",
+    "static/media/codinganimation.gif": "/static/media/codinganimation.f81211355e982eebd32e.gif",
+    "static/media/about.jpg": "/static/media/about.52c3bbc132cb84da0cd8.jpg",
+    "static/media/mypic.png": "/static/media/mypic.0921f89a151fc643bc31.png",
+    "static/media/1696069027241.jpeg": "/static/media/1696069027241.a2689ab9a7c28b04d687.jpeg",
+    "static/media/LMS.png": "/static/media/LMS.79fdc9380cb8b2741192.png",
+    "static/media/Logo.png": "/static/media/Logo.87abe50a0974a7570585.png",
+    "static/media/bankapp.avif": "/static/media/bankapp.c5bed2e3f9a8176aaac9.avif",
+    "static/media/emailClient.jpeg": "/static/media/emailClient.77ab1166708bca6897c8.jpeg",
+    "static/media/ChatApp.webp": "/static/media/ChatApp.23df22c3f14795541f5c.webp",
+    "index.html": "/index.html",
+    "main.8693004a.css.map": "/static/css/main.8693004a.css.map",
+    "main.a24fda9c.js.map": "/static/js/main.a24fda9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8693004a.css",
+    "static/js/main.a24fda9c.js"
+  ]
+}
